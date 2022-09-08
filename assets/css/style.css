@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family:"lato-regular" ;
+    src: local('lato-regular'), url('../fonts/Lato-Regular.ttf')
+}
+@font-face {
+    font-family:"lato-light" ;
+    src: local('lato-light'), url('../fonts/Lato-Light.ttf')
+}
+@font-face {
+    font-family:"lato-medium" ;
+    src: local('lato-medium'), url('../fonts/Lato-Medium.ttf')
+}
+@font-face {
+    font-family:"lato-heavy" ;
+    src: local('lato-heavy'), url('../fonts/Lato-Heavy.ttf')
+}
+@font-face {
+    font-family:"lato-black" ;
+    src: local('lato-black'), url('../fonts/Lato-Black.ttf')
+}
+@font-face {
+    font-family:"lato-bold" ;
+    src: local('lato-bold'), url('../fonts/Lato-Bold.ttf')
+}
+@font-face{
+    font-family:"lato-semi" ;
+    src: local('lato-semi'), url('../fonts/Lato-Semibold.ttf')
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    background: #008B16; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
