@@ -1,5 +1,5 @@
 <template>
-    <div class="h-screen flex flex-col ">
+    <div class="h-screen flex flex-col  ">
         <div class="team h-4/6 bg-[#008B16]">
         <div class="flex">
             <h2 class="text-white w-full flex justify-center text-2xl py-16">Meet the Cleaning team</h2>
@@ -7,7 +7,7 @@
             <!-- <button class="px-6 py-2 w-max font-[gotham-bold] bg-white text-black">View all</button> -->
         </div>
 
-        <div class="absolute w-full flex  px-20 justify-evenly items-end h-3/5">
+        <div class="absolute w-full flex justify-evenly items-end h-3/5 ">
             
 
             <!-- ----- -->

@@ -1,7 +1,7 @@
 
 <template>
     <div class="py-4 flex items-center justify-between px-20 ">
-        <h2 class="font-[lato-heavy] text-[#008B16]">WIPES.NG</h2>
+        <h2 class="font-[lato-heavy] text-[#008B16]">WIPER.NG</h2>
 
         <div class="flex gap-4 items-center font-[lato-medium]">
             <p>Home</p>

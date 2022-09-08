@@ -12,7 +12,7 @@
 
 
         
-        <div class="absolute w-full h-full items-center flex justify-around">
+        <div class="absolute w-full h-full items-center flex justify-evenly px-20">
 
             <div class="w-[18rem] rounded-lg shadow-xl px-5">
                 <div class="flex flex-col">
