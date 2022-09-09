@@ -11,7 +11,7 @@
 
 
             <div class=" w-full py-4 lg:px-20">
-                <div class=" flex flex-col lg:flex-row lg:justify-evenly">
+                <div class=" flex flex-col lg:flex-row lg:justify-evenly pt-16 pb-4">
                     <h2 class="text-white w-full text-center text-2xl ">Meet the Cleaning team</h2>
             <!-- <button class="py-2 px-3 bg-[white] text-black hidden lg:flex">View all</button> -->
 
