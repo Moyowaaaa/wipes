@@ -1,13 +1,25 @@
 <template>
-    <div class="h-screen flex flex-col  ">
-        <div class="team h-4/6 bg-[#008B16]">
-        <div class="flex">
-            <h2 class="text-white w-full flex justify-center text-2xl py-16">Meet the Cleaning team</h2>
+    <div class="h-auto lg:h-screen flex flex-col  ">
+        <div class="team h-full lg:h-4/6 bg-[#008B16]">
+        <div class="flex flex-col ">
 
-            <!-- <button class="px-6 py-2 w-max font-[gotham-bold] bg-white text-black">View all</button> -->
+            <!-- <div class="border-2 border-[purple] flex py-10">
+            <h2 class="text-white w-full text-center text-2xl ">Meet the Cleaning team</h2>
+            <button class="py-2 px-8 bg-[white] text-black flex">View</button>
+
+            </div> -->
+
+
+            <div class=" w-full py-4 lg:px-20">
+                <div class=" flex flex-col lg:flex-row lg:justify-evenly">
+                    <h2 class="text-white w-full text-center text-2xl ">Meet the Cleaning team</h2>
+            <!-- <button class="py-2 px-3 bg-[white] text-black hidden lg:flex">View all</button> -->
+
+                </div>
+            </div>
         </div>
 
-        <div class="absolute w-full flex justify-evenly items-end h-3/5 ">
+        <div class="lg:absolute w-full flex flex-col lg:flex-row lg:justify-evenly items-center lg:items-end h-3/5 gap-6">
             
 
             <!-- ----- -->

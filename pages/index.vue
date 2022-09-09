@@ -5,8 +5,8 @@
 		<ServicesSecion/>
 		<FeaturesSection />
 		<PricingSection />
-		<TeamSection />
-		<Footer />
+		 <TeamSection />
+		<Footer /> 
 	</div>
 	
 </template>
